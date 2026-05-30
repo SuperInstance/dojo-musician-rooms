@@ -1,0 +1,8 @@
+[package]
+name = "dojo-musician-rooms"
+version = "0.1.0"
+edition = "2021"
+description = "Musicians as Plato rooms — vibe embeddings generate MIDI patterns, shape sound by ear"
+license = "MIT"
+
+[dependencies]
